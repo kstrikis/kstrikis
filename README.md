@@ -8,7 +8,7 @@ Interested in network administration, computer security, embedded development, h
 
 *   🌍  I'm based in Massachusetts
 *   ✉️  You can contact me at [kstrikis@gmail.com](mailto:kstrikis@gmail.com)
-*   🚀  I'm currently working on [a GPT-powered teaching assistant app](http://teaching-assistant.online)
+*   🚀  I'm currently working on [an MCP server to connect your web browser to your AI coding agent](https://github.com/kstrikis/MCPMonkey)
 
 ### Skills 
 <p align="left">
